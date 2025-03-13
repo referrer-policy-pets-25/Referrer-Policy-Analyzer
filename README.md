@@ -8,3 +8,10 @@ To utilise this module, you have two options:
 
 ## Environment
 We utilised our campus server to execute this repository. Our campus server specifications include 132GB of RAM and 32 CPU cores. 
+
+## Dataset
+
+Our dataset is still in the process of obtaining a DOI from the [Radboud Data Repository](https://data.ru.nl). For this artefact review, we share this dataset on OneDrive as it is the only option suggested by Radboud University ([link](https://zenodo.org/records/8318561) page 39). You can find the dataset in this [OneDrive](https://radbouduniversiteit-my.sharepoint.com/:f:/r/personal/luqman_zagi_ru_nl/Documents/RP%20Dataset?csf=1&web=1&e=VtoNyS)
+
+
+
