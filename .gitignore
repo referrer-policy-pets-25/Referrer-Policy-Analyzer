@@ -2,3 +2,4 @@ output/
 .venv/
 helpers/intersection_*
 *.pyc
+test/
